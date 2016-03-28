@@ -1,6 +1,6 @@
 /**
  *  @author: Albert "Errendir" Slawinski <errendir@gmail.com>
- *  @module: statelets/Pool
+ *  @module: Pool
  */
 
 import Immutable from 'immutable'
